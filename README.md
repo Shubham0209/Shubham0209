@@ -16,9 +16,9 @@
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/shubhamsinghcv/).
 
 ## Github Stats  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham0209&show_icons=true&locale=en&layout=compact" alt="shubham0209" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham0209&show_icons=true&locale=en&layout=compact" alt="shubham0209" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubham0209&show_icons=true&locale=en" alt="shubham0209" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0209&show_icons=true&locale=en" alt="shubham0209" /></p>
 
 <p align="center">
 

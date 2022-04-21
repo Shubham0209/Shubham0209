@@ -20,10 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham0209&show_icons=true&locale=en" alt="shubham0209" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham0209&" alt="shubham0209" /></p>
-
-
-
 <p align="center">
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=Shubham0209&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/Shubham0209)

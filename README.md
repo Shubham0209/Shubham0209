@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist with interest in the fields of NLP 📖 and Computer vision 🔎</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsinghcv/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Shubham-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/shubhamsinghcv/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20Me-blue?logo=linkedin" /></a>
   <a href="https://shubham-singh.glitch.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-About%20Me-blue.svg" /></a>
   <!--<a href="https://twitter.com/intent/follow?screen_name=miguelgfierro" target="_blank"><img src="https://img.shields.io/twitter/follow/miguelgfierro?style=social" /></a>-->
 
